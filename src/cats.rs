@@ -1,7 +1,7 @@
 pub const CATS: [&str; 110] = [
     "Basil",
     "Fern",
-    "Willow",
+    "Ivy",
     "Tieta",
     "Squeaks",
     "Cooper",
