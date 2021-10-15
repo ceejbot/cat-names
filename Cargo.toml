@@ -1,0 +1,12 @@
+[package]
+name = "cat-names"
+version = "0.1.0"
+edition = "2018"
+description = "A random cat name generator."
+readme = "README.md"
+license = "BlueOak-1.0.0"
+repository = "https://github.com/ceejbot/cat-names"
+keywords = ["random", "cats", "cat names"]
+
+[dependencies]
+rand = "0.8.4"
